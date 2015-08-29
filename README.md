@@ -17,3 +17,5 @@ A sample readme for the Algonquin College Graphic Design program to match the vi
 ## License & copyright
 
 © Thomas J Bradley, Algonquin College Graphic Design
+
+Licensed under the [MIT License](LICENSE).
