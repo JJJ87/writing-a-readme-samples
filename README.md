@@ -8,6 +8,12 @@ A sample readme for the Algonquin College Graphic Design program to match the vi
 
 ---
 
+## Contributors
+
+- Thomas J Bradley <hey@thomasjbradley.ca>
+
+---
+
 ## License & copyright
 
 © Thomas J Bradley, Algonquin College Graphic Design
