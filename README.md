@@ -1,6 +1,6 @@
 # Writing a README samples
 
-**Version 1.0.0**
+**Version 1.0.0** — [Change log](CHANGELOG.md)
 
 Code and document samples for the writing a README tutorial.
 
