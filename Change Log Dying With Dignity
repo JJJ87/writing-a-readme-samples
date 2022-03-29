@@ -1,0 +1,28 @@
+# Dying with Dignity
+
+**Version 1.0.0. ** March, 28 2022
+
+Initial release
+
+**Added:**
+-New visual identity 
+-Abstract section
+-References section
+-License section
+-Literature Review section
+**Changed:**
+Rewrite "The Impact pf Advanced Directives and Living Wills" section
+Rewrite "Assisted Death and Eutanashia" section
+-Improve "Care of Individuals with Terminal cancer a Qualitative Study" sub-section to further argument against
+  them.
+**Deprecated:**
+-README section on "yanked" releases.
+**Removed:**
+-Section about "The Oregon Act".
+-Remove exclusionary mentions of "open source" since this project can
+benefit both "open" and "closed" source projects equally.
+**Fixed:**
+-Fix typos in recent README changes.
+-Update outdated unreleased diff link.
+**Security:**
+-CNAME file to enable GitHub Pages custom domain
